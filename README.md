@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/8KKRIP5ZHUo2k/giphy.gif" width="600" height="300"/>
 </div>
 
+- 🤖 I am proficient at Java, Python, Bash, and Unix.
 - 🌱 I’m currently learning Spring Boot and Thymeleaf.
 - 😛 Languages: English, Turkish, Spanish
 - 💬 Ask me about stuff I'm working on
