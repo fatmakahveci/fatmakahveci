@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning Spring Boot and Thymeleaf.
 - 😛 Languages: English, Turkish, Spanish
 - 💬 Ask me about stuff I'm working on
-- 🔭 Research keywords of interests: bioinformatics <a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>
+- <a href="https://external.ink/?to=https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>
+- 🔭 Research keywords of interests: bioinformatics
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: From :tr:, living in London :uk:.
 
