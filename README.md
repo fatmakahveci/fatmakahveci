@@ -60,6 +60,10 @@
   </a>
 </div>
 
+## Today's joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### :writing_hand: Blog Posts
 
 https://www.fatmakahveci.com/
