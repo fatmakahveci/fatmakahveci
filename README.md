@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Spring Boot and Thymeleaf.
 - 😛 Languages: English, Turkish, Spanish
 - 💬 Ask me about stuff I'm working on
-- 📫 How to reach me: [Twitter](cheburashkaF)
+- 📫 How to reach me: [Twitter](https://twitter.com/cheburashkaF)
 - 🔭 Research keywords of interests: bioinformatics (<a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: From :tr:, living in London :uk:.
