@@ -10,7 +10,6 @@
 - 💬 Ask me about stuff I'm working on
 - 🔭 Research keywords of interests: bioinformatics (https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en)
 - 😄 Pronouns: She/her
-- 🔊 Pronunciation: Fatma
 - ⚡ Fun fact: From :tr:, living in London :uk:.
 
 ## :hammer_and_wrench: Languages and Tools :
