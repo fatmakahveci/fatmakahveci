@@ -5,9 +5,9 @@
 </div>
 
 - 🤖 I am proficient at Java, Python, Bash, and Unix.
-- 🌱 I’m currently learning Spring Boot.
-- 😛 Languages: English, Turkish, Spanish
-- 💬 Ask me about stuff I'm working on
+- 🌱 I’m currently learning Django.
+- 😛 Languages: English, Turkish, and Spanish.
+- 💬 Ask me about stuff I'm working on.
 - 📫 How to reach me: [Twitter](https://twitter.com/fatma_espanol)
 - 🔭 Research keywords of interests: bioinformatics (<a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>)
 - 😄 Pronouns: She/her
