@@ -5,7 +5,7 @@
 </div>
 
 - 🤖 I am proficient at Java, Python, Bash, and Unix.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning React.js and Django.
 - 😛 Languages: English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
 - 📫 How to reach me: [Twitter](https://twitter.com/fatma_espanol)
