@@ -50,8 +50,6 @@
 
 ![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmakahveci&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakahveci&hide=javascript,html,css)](https://github.com/fatmakahveci/github-readme-stats)
-
 ## :earth_americas: Find me around the web
 
 <div id="badges">
