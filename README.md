@@ -46,6 +46,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
 </div>
 
+### :writing_hand: Blog Posts
+
+https://www.fatmakahveci.com/
+
 ## :fire: My stats
 
 ![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmakahveci&show_icons=true&theme=radical)
@@ -70,7 +74,3 @@
 ## Today's joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-### :writing_hand: Blog Posts
-
-https://www.fatmakahveci.com/
