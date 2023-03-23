@@ -5,7 +5,7 @@
 </div>
 
 - 🤖 I am proficient at Java, Python, Bash, Django, React and Unix.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning AWS. ([My notes](https://fatmakahveci.com/aws-note/))
 - 😛 Languages: English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
 - 📫 How to reach me: [Twitter](https://twitter.com/fatma_espanol)
