@@ -9,7 +9,7 @@
 - 😛 Languages: English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
 - 📫 How to reach me: [Twitter](https://twitter.com/fatma_espanol)
-- 🔭 Research keywords of interests: bioinformatics (<a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>)
+- 🔭 My research page: (<a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: From :tr:, living in London :uk:.
 
