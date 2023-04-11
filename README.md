@@ -13,6 +13,10 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: From :tr:, living in London :uk:.
 
+## :writing_hand: Blog Posts
+
+https://www.fatmakahveci.com/
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -45,10 +49,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
 </div>
-
-### :writing_hand: Blog Posts
-
-https://www.fatmakahveci.com/
 
 ## :fire: My stats
 
