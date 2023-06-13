@@ -60,7 +60,7 @@ https://www.fatmakahveci.com/
   <a href="https://www.linkedin.com/in/fatma-kahveci/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/cheburashkaF">
+  <a href="https://twitter.com/fatmakhv">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/fatmakhv/">
