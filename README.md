@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/8KKRIP5ZHUo2k/giphy.gif" width="600" height="300"/>
 </div>
 
-- 🤖 I am proficient at Java, Python, Bash, Django, React and Unix.
-- 🌱 I’m currently learning AWS. ([My notes](https://fatmakahveci.com/aws-note/))
+- 🤖 I am proficient at Python, Bash, Django, React and Unix.
+- 🌱 I’m currently learning TypeScript.
 - 😛 Languages: English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
 - 📫 How to reach me: [Twitter](https://twitter.com/science_n_code)
