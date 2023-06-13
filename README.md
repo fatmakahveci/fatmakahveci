@@ -11,7 +11,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/science_n_code)
 - 🔭 My research page: <a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: From :tr:, living in London :uk:.
+- ⚡ Living in London :uk:.
 
 ## :writing_hand: Blog Posts
 
