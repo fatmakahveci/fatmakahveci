@@ -4,7 +4,7 @@
 
 
 - :woman_technologist: My name is Fatma.
-- 🤖 I am proficient at Python, Bash, Django, React and Unix.
+- 🤖 I am proficient at Python, JavaScript, Bash, Django, React and Unix.
 - 🌱 I’m currently learning TypeScript.
 - 😛 Languages: English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
