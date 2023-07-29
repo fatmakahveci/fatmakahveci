@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/URErQA3KHu8JmKk6tS/giphy.gif"/>
 </div>
 
-
-- :woman_technologist: My name is Fatma.
 - 🤖 I am proficient at Python, JavaScript, Bash, Django, React and Unix.
 - 🌱 I’m currently learning TypeScript.
 - 😛 Languages: English, Turkish, and Spanish.
