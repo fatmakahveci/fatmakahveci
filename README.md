@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/URErQA3KHu8JmKk6tS/giphy.gif"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
 </div>
 
 - 🤖 I am proficient at Python, JavaScript, Bash, Django, React and Unix.
