@@ -14,6 +14,8 @@
 - 🔭 My research page: <a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>
 - 😄 Pronouns: She/her
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fatmakahveci)
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
