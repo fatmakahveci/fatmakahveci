@@ -2,24 +2,24 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
 </div>
 
-- 🤖 I am proficient at Python, JavaScript, Bash, Django, React and Unix.
-- 🌱 I’m currently learning TypeScript.
+- 🌍 I'm based in London, England.
+- 🤖 I am proficient at Python, JavaScript, Java, Bash, Django, React and Unix.
+- 🌱 I'm learning TypeScript.
+- 🚀 I'm currently working on a [React & TypeScript project.](https://github.com/fatmakahveci/react-form)
+- 🤝 I'm open to collaborating on interesting projects.
+- 🖥️  See my portfolio at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
 - 😛 Languages: English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
 - 📫 How to reach me: [Twitter](https://twitter.com/science_n_code)
 - 🔭 My research page: <a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>
 - 😄 Pronouns: She/her
-- ⚡ Living in London :uk:.
-
-## :writing_hand: Blog Posts
-
-https://www.fatmakahveci.com/
 
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Git" **alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
