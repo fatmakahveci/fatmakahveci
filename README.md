@@ -5,7 +5,7 @@
 - 🌍 I'm based in London, England.
 - 🤖 I am proficient at Python, JavaScript, Java, Bash, Django, React and Unix.
 - 🌱 I'm learning TypeScript.
-- 🚀 I'm currently working on a [React & TypeScript project.](https://github.com/fatmakahveci/react-form)
+- 🚀 I'm currently working on a [React & TypeScript project.](https://github.com/fatmakahveci/react-ts-food-order)
 - 🤝 I'm open to collaborating on interesting projects.
 - 🖥️  See my portfolio at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
 - 😛 Languages: English, Turkish, and Spanish.
