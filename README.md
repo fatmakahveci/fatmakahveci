@@ -5,6 +5,7 @@
 - 🌍 I'm based in London, England.
 - 🤖 I am proficient at Python, TypeScript, JavaScript, Django, React, Java, Bash and Unix.
 - 🌱 I'm learning Redux.
+- 🚀 I'm currently working on an [app](https://github.com/fatmakahveci/react-ts-redux-shop) (React & TypeScript & Redux).
 - 🤝 I'm open to collaborating on interesting projects.
 - 🖥️ See my portfolio at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
 - 😛 Languages: English, Turkish, and Spanish.
