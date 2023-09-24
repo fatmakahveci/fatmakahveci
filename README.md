@@ -3,10 +3,10 @@
 </div>
 
 - 🌍 I'm based in London, England.
-- 🤖 I am proficient at Python, JavaScript, Java, Bash, Django, React and Unix.
-- 🌱 I'm learning TypeScript.
+- 🤖 I am proficient at Python, TypeScript, JavaScript, Django, React, Java, Bash and Unix.
+- 🌱 I'm learning Redux.
 - 🤝 I'm open to collaborating on interesting projects.
-- 🖥️  See my portfolio at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
+- 🖥️ See my portfolio at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
 - 😛 Languages: English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
 - 📫 How to reach me: [Twitter](https://twitter.com/science_n_code)
