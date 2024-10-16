@@ -4,8 +4,8 @@
 
 - 🇬🇧 I'm based in London, England, United Kingdom.
 - 🤖 I am proficient at Python, TypeScript, JavaScript, Django, React, Java, Bash and Unix.
-- 🌱 I'm learning Redux and MongoDB.
-- 🚀 I'm currently working on an [app](https://github.com/fatmakahveci/react-ts-event) (React & TypeScript).
+- 🌱 I'm learning ...
+- 🚀 I'm currently working on an app ...
 - 🤝 I'm open to collaborating on interesting projects.
 - 🖥️ See my portfolio at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
 - 😛 Languages: English, Turkish, and Spanish.
