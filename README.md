@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
-</div>
-
 - 🇬🇧 I'm based in London, England, United Kingdom.
 - 🤖 I am proficient at Python, TypeScript, JavaScript, Django, React, Java, Bash and Unix.
 - 🌱 I'm learning ...
