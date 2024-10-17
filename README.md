@@ -53,20 +53,3 @@
 ## :fire: My stats
 
 ![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmakahveci&show_icons=true&theme=radical)
-
-## :earth_americas: Find me around the web
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/fatma-kahveci/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/fatmakhv">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.instagram.com/fatmakhv/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Spotify Badge"/>
-  </a>
-  <a href="https://open.spotify.com/playlist/0rkY0WqrzMX3oE3QFgyD7v?si=bcc8a29fb5c64414">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-  </a>
-</div>
