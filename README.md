@@ -70,7 +70,3 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
 </div>
-
-## Today's joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
