@@ -6,7 +6,7 @@
 - 🖥️ See my blog at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
 - 😛 Languages: English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
-- 📫 How to reach me: [Bluesky](https://bsky.app/profile/softwareengineer.bsky.social)
+- 📫 How to reach me: [Bluesky](https://bsky.app/profile/softwareengineer.bsky.social) or [LinkedIn](https://www.linkedin.com/in/fatma-kahveci/)
 - 🔭 My research page: <a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fatmakahveci)
