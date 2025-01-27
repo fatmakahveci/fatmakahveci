@@ -1,14 +1,13 @@
 - 🇬🇧 I'm based in London, England, United Kingdom.
 - 🤖 I am proficient at Python, TypeScript, JavaScript, Django, React, Java, Bash and Unix.
-- 🌱 I'm learning ...
-- 🚀 I'm currently working on an app ...
+- 🌱 I'm learning LLM.
+- 🚀 I'm currently working on an LLM app.
 - 🤝 I'm open to collaborating on interesting projects.
-- 🖥️ See my portfolio at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
+- 🖥️ See my blog at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
 - 😛 Languages: English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
-- 📫 How to reach me: [Twitter](https://twitter.com/science_n_code)
+- 📫 How to reach me: [Twitter](https://twitter.com/fatmakhv)
 - 🔭 My research page: <a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>
-- 😄 Pronouns: She/her
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fatmakahveci)
 
