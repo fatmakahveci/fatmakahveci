@@ -1,7 +1,7 @@
 - 🇬🇧 I'm based in London, England, United Kingdom.
 - 🤖 I am proficient at Python, TypeScript, JavaScript, Django, React, Java, Bash and Unix.
 - 🌱 I'm learning LLM.
-- 🚀 I'm currently working on an LLM app.
+- 🚀 I build backend-oriented applications with a focus on clean architecture and testability. Currently working on an LLM-based application.
 - 🤝 I'm open to collaborating on interesting projects.
 - 🖥️ See my blog at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
 - 😛 Languages: English, Turkish, and Spanish.
