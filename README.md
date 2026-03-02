@@ -11,6 +11,10 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fatmakahveci)
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/fatmakahveci/fatmakahveci/blob/output/github-contribution-grid-snake.svg)
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
