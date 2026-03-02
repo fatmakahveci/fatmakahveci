@@ -45,6 +45,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
 </div>
 
-## :fire: My stats
+## 🔥 My GitHub Stats
 
-![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmakahveci&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmakahveci&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+</p>
