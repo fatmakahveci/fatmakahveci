@@ -1,21 +1,121 @@
-<h1 align="center">Hi 👋, I'm Fatma</h1>
+<h1 align="center">Hi 👋, I'm Fatma Kahveci</h1>
 
-- 🇬🇧 I'm based in London, England, United Kingdom.
-- 🤖 I am proficient at Python, TypeScript, JavaScript, Django, React, Java, Bash and Unix.
-- 🌱 I'm learning LLM.
-- 🚀 I build backend-oriented applications with a focus on clean architecture and testability. Currently working on an LLM-based application.
-- 🤝 I'm open to collaborating on interesting projects.
-- 🖥️ See my blog at [https://www.fatmakahveci.com/](https://www.fatmakahveci.com/).
-- 😛 Languages: English, Turkish, and Spanish.
+<p align="center">
+Backend & LLM Systems Engineer • Clean Architecture • Reliable AI Applications
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+* 🇬🇧 Based in London, UK
+* 🧠 I design **backend systems and LLM applications** focused on reliability, evaluation, and maintainability
+* 🧱 I care about architecture, testing, observability, and clear interfaces — not just shipping features
+* 🔬 Currently building an **LLM information retrieval system (RAG + evaluation + structured outputs)**
+* 🌱 Actively learning: prompting strategies, embeddings, agents, and LLM evaluation
+
+---
+
+### 🧰 Core Stack
+
+**Languages**
+Python • TypeScript • JavaScript • Java • Bash
+
+**Backend**
+Django • REST APIs • Clean Architecture • Authentication • Background jobs
+
+**Frontend**
+React • Component design • API integration
+
+**Data & Infra**
+PostgreSQL • Docker • Linux • Git • CI/CD
+
+**AI / LLM**
+RAG pipelines • Prompt design • Embeddings • Structured outputs • Evaluation
+
+---
+
+### 🚧 What I’m Building Right Now
+
+I’m working on an LLM-based system that retrieves structured information and produces reliable answers.
+
+Focus areas:
+
+* Retrieval pipelines
+* Prompt iteration
+* Evaluation strategies
+* Explainable responses
+* Testable AI components
+
+Goal:
+**An AI system you can trust — not just a chatbot.**
+
+---
+
+### ✨ Featured Projects
+
+#### 🧠 React + Django Notes App
+
+Full-stack note management system with authentication and REST API integration.
+
+* Token authentication
+* CRUD operations
+* Separated frontend & backend
+* API-driven architecture
+
+#### ✍️ Spring Boot Blog API
+
+Backend blogging platform built with layered architecture.
+
+* Controller → Service → Repository structure
+* RESTful design
+* Testable service layer
+* Clear separation of concerns
+
+#### 🎮 Memory Game
+
+Interactive browser memory game focusing on UI state and user interaction.
+
+* Dynamic card rendering
+* Game state logic
+* Responsive layout
+
+---
+
+### 🏗️ Engineering Principles
+
+* Clean Architecture & separation of concerns
+* Writing testable code
+* Predictable APIs
+* Debugging & root cause analysis
+* Refactoring for readability
+* Observability & logging
+
+---
+
+### 📚 Writing & Research
+
+🖥️ Blog: https://www.fatmakahveci.com/
+🎓 Google Scholar: https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en
+
+---
+
+### 🤝 Let’s Connect
+
+- **Languages:** English, Turkish, and Spanish.
 - 💬 Ask me about stuff I'm working on.
-- 📫 How to reach me: [Bluesky](https://bsky.app/profile/softwareengineer.bsky.social) or [LinkedIn](https://www.linkedin.com/in/fatma-kahveci/)
-- 🔭 My research page: <a href="https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en" target="_blank">Google scholar :woman_student:</a>
+
+- Reach me at:
+* LinkedIn: https://www.linkedin.com/in/fatma-kahveci/
+* Bluesky: https://bsky.app/profile/softwareengineer.bsky.social
+
+I’m open to collaboration on:
+
+* backend systems
+* developer tooling
+* LLM infrastructure
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fatmakahveci)
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/fatmakahveci/fatmakahveci/blob/output/github-contribution-grid-snake.svg)
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -51,14 +151,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
 </div>
 
-## 🔥 GitHub Streak
+## 🐍 Contribution Snake
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fatmakahveci&theme=radical&hide_border=true)
-
-## 🔥 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmakahveci&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-</p>
-
-![Profile views](https://komarev.com/ghpvc/?username=fatmakahveci&color=ff69b4)
+![snake gif](https://github.com/fatmakahveci/fatmakahveci/blob/output/github-contribution-grid-snake.svg)
