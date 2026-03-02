@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Fatma</h1>
+
 - 🇬🇧 I'm based in London, England, United Kingdom.
 - 🤖 I am proficient at Python, TypeScript, JavaScript, Django, React, Java, Bash and Unix.
 - 🌱 I'm learning LLM.
@@ -49,8 +51,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
 </div>
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fatmakahveci&theme=radical&hide_border=true)
+
 ## 🔥 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatmakahveci&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=fatmakahveci&color=ff69b4)
