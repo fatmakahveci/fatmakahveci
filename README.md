@@ -4,6 +4,11 @@
 Backend & LLM Systems Engineer • Clean Architecture • Reliable AI Applications
 </p>
 
+[![Profile automation](https://github.com/fatmakahveci/fatmakahveci/actions/workflows/snake.yml/badge.svg)](https://github.com/fatmakahveci/fatmakahveci/actions/workflows/snake.yml)
+[![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![LLM systems](https://img.shields.io/badge/Focus-LLM%20Systems-7C3AED)](https://github.com/fatmakahveci)
+[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE.md)
+
 ---
 
 ### 👩‍💻 About Me
