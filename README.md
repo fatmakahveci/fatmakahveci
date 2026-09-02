@@ -159,3 +159,10 @@ I’m open to collaboration on:
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/fatmakahveci/fatmakahveci/blob/output/github-contribution-grid-snake.svg)
+
+## Project Resources
+
+- [Changelog](CHANGELOG.md)
+- [Contributing guide](.github/CONTRIBUTING.md)
+- [Security policy](.github/SECURITY.md)
+- [License](LICENSE.md)
