@@ -100,7 +100,7 @@ Interactive browser memory game focusing on UI state and user interaction.
 
 ### 📚 Writing & Research
 
-🖥️ Blog: https://www.fatmakahveci.com/
+🖥️ Blog: https://fatmakahveci.github.io/
 🎓 Google Scholar: https://scholar.google.com/citations?user=Icdr4p0AAAAJ&hl=en
 
 ---
