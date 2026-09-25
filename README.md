@@ -158,7 +158,9 @@ I’m open to collaboration on:
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/fatmakahveci/fatmakahveci/blob/output/github-contribution-grid-snake.svg)
+![snake gif](assets/github-contribution-grid-snake.svg)
+
+The daily workflow uploads the latest SVG as the `contribution-snake` Actions artifact. To refresh this snapshot, download the artifact and replace `assets/github-contribution-grid-snake.svg` on `main`.
 
 ## Project Resources
 
